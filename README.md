@@ -48,7 +48,7 @@ But here's the thing: I'm not just about code. I'm about connection. I'm about c
 ### 📫 How to reach me
 
 - **Email**: [dev.mszaman@gmail.com](mailto:dev.mszaman@gmail.com)
-- **LinkedIn**: [Sharfuzzaman](https://www.linkedin.com/in/sharfuzzaman/)
+- **LinkedIn**: [sharfuzzaman](https://www.linkedin.com/in/sharfuzzaman/)
 - **WhatsApp**: [+8801764121252](tel:+8801764121252)
 - **Website**: [sharfuzzaman.com](https://www.sharfuzzaman.com/contact)
 
